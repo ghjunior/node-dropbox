@@ -1,0 +1,3 @@
+[submodule "server/lib/vendor/node-oauth"]
+	path = server/lib/vendor/node-oauth
+	url = http://github.com/ciaranj/node-oauth.git
